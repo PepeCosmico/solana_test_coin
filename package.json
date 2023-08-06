@@ -1,0 +1,21 @@
+{
+  "name": "pepo_coin_swap",
+  "scripts": {
+    "start": "ts-node ./client/main.ts",
+    "build": "./scripts/cicd.sh build",
+    "deploy": "./scripts/cicd.sh deploy",
+    "reset": "./scripts/cicd.sh reset",
+    "listen": "./scripts/cicd.sh listen"
+  },
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/buffer-layout": "^4.0.1",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/spl-token-swap": "^0.4.0",
+    "@solana/web3.js": "^1.78.3",
+    "@types/mz": "^2.7.4",
+    "@types/node": "^20.4.7",
+    "mz": "^2.7.0",
+    "yaml": "^2.3.1"
+  }
+}

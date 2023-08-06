@@ -1,0 +1,12 @@
+/home/pepo/crypto-projects/solana/programs/pepo_coin_swap/programs/pepo_coin/target/release/deps/libthiserror_impl-eff146dfb54f30f6.so: /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs
+
+/home/pepo/crypto-projects/solana/programs/pepo_coin_swap/programs/pepo_coin/target/release/deps/thiserror_impl-eff146dfb54f30f6.d: /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs
+
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs:

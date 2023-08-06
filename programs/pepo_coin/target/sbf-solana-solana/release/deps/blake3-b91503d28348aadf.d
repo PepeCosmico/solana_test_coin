@@ -1,0 +1,12 @@
+/home/pepo/crypto-projects/solana/programs/pepo_coin_swap/programs/pepo_coin/target/sbf-solana-solana/release/deps/blake3-b91503d28348aadf.rmeta: /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/home/pepo/crypto-projects/solana/programs/pepo_coin_swap/programs/pepo_coin/target/sbf-solana-solana/release/deps/libblake3-b91503d28348aadf.rlib: /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/home/pepo/crypto-projects/solana/programs/pepo_coin_swap/programs/pepo_coin/target/sbf-solana-solana/release/deps/blake3-b91503d28348aadf.d: /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs:
+/home/pepo/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs:

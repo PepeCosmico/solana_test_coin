@@ -1,0 +1,1 @@
+{"rustc":13782479574610989673,"features":"[\"alloc\", \"default\", \"std\"]","target":1434475815273837950,"profile":9347176690363218083,"path":1605009499903073204,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/winnow-008e48f585c32ffb/dep-lib-winnow"}}],"rustflags":[],"metadata":7482876514514569712,"config":2202906307356721367,"compile_kind":0}
