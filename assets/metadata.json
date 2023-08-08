@@ -1,0 +1,7 @@
+{
+  "name": "Pepo coin",
+  "symbol": "PEPO",
+  "uri": "https://github.com/PepeCosmico/solana_test_coin/blob/main/assets/pepo.jpg",
+  "seller_fee_basis_points": 1,
+  "creators": null
+}
