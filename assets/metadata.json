@@ -1,7 +1,5 @@
 {
   "name": "Pepo coin",
   "symbol": "PEPO",
-  "uri": "https://github.com/PepeCosmico/solana_test_coin/blob/main/assets/pepo.jpg",
-  "seller_fee_basis_points": 1,
-  "creators": null
+  "uri": "https://arweave.net/D0sclnp8O3MuzhqFdSP8_HBe5GEWX4eAxyCfau51Sfs?ext=png"
 }
