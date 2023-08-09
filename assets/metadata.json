@@ -1,5 +1,6 @@
 {
   "name": "Pepo coin",
   "symbol": "PEPO",
-  "uri": "https://arweave.net/D0sclnp8O3MuzhqFdSP8_HBe5GEWX4eAxyCfau51Sfs?ext=png"
+  "description": "Pepo's testing coin",
+  "image": "https://raw.githubusercontent.com/PepeCosmico/solana_test_coin/main/assets/pepo.jpg"
 }
